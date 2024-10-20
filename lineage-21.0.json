@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1727056539,
-      "filename": "lineage-21.0-20240923-UNOFFICIAL-platina-signed.zip",
-      "id": "1c1a95377b4e90430d92e16a9965dfd2",
+      "datetime": 1729419990,
+      "filename": "lineage-21.0-20241020-UNOFFICIAL-platina-signed.zip",
+      "id": "98545113dd9af911be95fbce3e887f00",
       "romtype": "UNOFFICIAL",
-      "size": 1037789199,
-      "url": "https://master.fortunedrive.workers.dev/0:/ROM/LineageOS/lineage-21.0-20240923-UNOFFICIAL-platina-signed.zip",
+      "size": 1039397061,
+      "url": "https://master.fortunedrive.workers.dev/0:/ROM/LineageOS/lineage-21.0-20241020-UNOFFICIAL-platina-signed.zip",
       "version": "21.0"
     }
   ]
